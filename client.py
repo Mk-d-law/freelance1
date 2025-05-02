@@ -38,7 +38,7 @@ def clean_section(text):
     return text.strip()
 
 def main():
-    url = 'http://localhost:5002/process_dispute_sse'
+    url = 'https://web-production-d52a.up.railway.app/process_dispute_sse'
     data = {
         "dispute": "arbitration"
     }
