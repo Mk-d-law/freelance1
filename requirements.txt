@@ -1,0 +1,10 @@
+flask
+neo4j
+openai
+anthropic
+google-generativeai
+google-ai-generativelanguage
+tiktoken
+requests
+sseclient
+python-dotenv
